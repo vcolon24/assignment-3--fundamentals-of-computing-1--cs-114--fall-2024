@@ -19,7 +19,7 @@ Write a program that does the following:
 2. Prints a matrix consisting of `0`s
 3. Populates the matrix with values from `1–(input × input)`
 4. Prints the matrix with the newly-populated values
-5. Swaps the contents of the matrix on one side of the diagonal formed from top right to bottom left with the other side, highlighting the elements along the diagonal and leaving them untouched/unswapped
+5. Swaps the contents of the matrix on one side of the diagonal formed from top right to bottom left with the other side, highlighting the elements along the diagonal and leaving them untouched/unswapp
 6. Prints the flipped matrix
 
 As mentioned in item 5, the elements in the diagonal **must not be touched**, while the other elements in the matrix **must be swapped**. The numbers in every cell of the matrix is arbitrary; each cell could have contained a letter, string, image, or other object/primitive. Numbers are being used in this assignment because they produce a sequence that is easy to follow when working with the matrix. **A movie of how this assignment should behave in its resolved state is available [here](http://vanegas.cs.hartford.edu/uploads/videos/matrix-flip-along-diagonal--java.mp4).**
